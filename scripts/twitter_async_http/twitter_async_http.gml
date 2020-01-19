@@ -84,6 +84,8 @@ if (_status == 0)
             
             case TWITTER_STATE.OPERATION_PENDING:
                 __twitter_callback_success(_result);
+                
+                global.__twitter_state = TWITTER_STATE.ACCESS_TOKEN_RECEIVED;
             break;
             
             default:
