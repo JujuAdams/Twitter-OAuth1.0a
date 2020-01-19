@@ -1,0 +1,1 @@
+return floor(date_second_span(25569, date_current_datetime()));

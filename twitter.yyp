@@ -1,0 +1,675 @@
+{
+    "id": "2f78f62e-b190-47fc-99b5-97a187877c10",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "7e2778ae-d462-42dd-b837-75161182f4fc",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "d52eb0bb-bbb8-4025-88c5-a14c6aebab39",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "019e6c07-9756-43e1-be85-fa7d44cd2e23",
+            "Value": {
+                "id": "9fccd294-8b1f-4e4c-b5c7-60d6c26dfdae",
+                "resourcePath": "scripts\\__twitter_extract_param\\__twitter_extract_param.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "04475baa-1f1e-42b4-a966-46f27be047c4",
+            "Value": {
+                "id": "16b0199f-274b-4e87-95e0-66baa28ca53b",
+                "resourcePath": "views\\04475baa-1f1e-42b4-a966-46f27be047c4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0478b943-0193-4eb3-ab00-21099a09dab5",
+            "Value": {
+                "id": "0f4d7063-87ed-447e-9e94-a1695839fcc2",
+                "resourcePath": "views\\0478b943-0193-4eb3-ab00-21099a09dab5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "04998f54-7a31-488f-bb7b-e5fac7646fc5",
+            "Value": {
+                "id": "06d35a35-f3b6-4d7c-854f-0d5f8d7eb567",
+                "resourcePath": "scripts\\__twitter_map_to_param_string\\__twitter_map_to_param_string.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0830d570-bde5-4690-85d8-b89194246481",
+            "Value": {
+                "id": "e6e3d1a1-5225-4bb3-aa53-d8af862e1289",
+                "resourcePath": "scripts\\twitter_is_ready\\twitter_is_ready.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "12034492-5289-464b-a75f-3b26a8e71827",
+            "Value": {
+                "id": "b90bd5e5-566c-4f12-a418-00641dd3df53",
+                "resourcePath": "scripts\\__twitter_hex_string_base64\\__twitter_hex_string_base64.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "125270c5-7029-408c-b7a5-c51fbd358337",
+            "Value": {
+                "id": "2d68c22d-619f-4bca-8bfe-e81a61d25657",
+                "resourcePath": "scripts\\__twitter_callback_failed\\__twitter_callback_failed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "129e1175-1c0f-453b-acb0-1620596af054",
+            "Value": {
+                "id": "c80f5df3-adf1-4135-97af-1fba630f54c6",
+                "resourcePath": "scripts\\__twitter_unix_time\\__twitter_unix_time.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "13cd549f-acf1-4566-9bb3-117e973fe97e",
+            "Value": {
+                "id": "323741d6-6caa-40fc-996d-97ccc1db31bf",
+                "resourcePath": "views\\13cd549f-acf1-4566-9bb3-117e973fe97e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "16726add-faee-41d5-88b7-74cd10150c42",
+            "Value": {
+                "id": "bc9acdbe-5854-4a52-bc1e-1269b9a356c7",
+                "resourcePath": "views\\16726add-faee-41d5-88b7-74cd10150c42.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "195373cc-3d0d-434c-92ab-516754b76ea9",
+            "Value": {
+                "id": "f829ab40-b7c9-4ad9-9308-b0a28f206d5a",
+                "resourcePath": "views\\195373cc-3d0d-434c-92ab-516754b76ea9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1eb3634c-e12d-479a-995e-8e90370f474f",
+            "Value": {
+                "id": "bb64f8f6-6972-48c7-93c7-b8fd5960bf09",
+                "resourcePath": "scripts\\twitter_api_verify\\twitter_api_verify.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "210905cd-0eab-4b1a-9808-9bcfbf92b94c",
+            "Value": {
+                "id": "3cb93045-fad1-415a-ae94-8e9f504ff849",
+                "resourcePath": "views\\210905cd-0eab-4b1a-9808-9bcfbf92b94c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "218efc9b-0d98-4485-ab06-4cfd8de2d0d4",
+            "Value": {
+                "id": "6a61f74e-0bce-407a-8928-2ee618bb7a83",
+                "resourcePath": "scripts\\__twitter_authenticate_user\\__twitter_authenticate_user.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "234f28a1-2358-43b9-8a14-d359ac5fda37",
+            "Value": {
+                "id": "d04422ed-b938-4fc0-802f-42882e9a3294",
+                "resourcePath": "scripts\\__twitter_show_pin\\__twitter_show_pin.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "251329e8-49f4-42d3-9bc7-e71f7a45e7e1",
+            "Value": {
+                "id": "254142a5-86f0-4676-8d65-046957cc709c",
+                "resourcePath": "views\\251329e8-49f4-42d3-9bc7-e71f7a45e7e1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "262f125f-e7ed-48e4-8630-9018d1e24cb1",
+            "Value": {
+                "id": "71897073-2d24-4414-bab9-3e880eda126b",
+                "resourcePath": "views\\262f125f-e7ed-48e4-8630-9018d1e24cb1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "27dadd79-4dc6-4af9-ac3b-47cffc89593a",
+            "Value": {
+                "id": "c54ce34c-d2b7-45a7-ae7e-e3ab88e28a06",
+                "resourcePath": "scripts\\twitter_step\\twitter_step.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2bc0c65f-05a0-44c2-b0dd-e3e16ebb917d",
+            "Value": {
+                "id": "b3d08f7d-f48c-4a3e-a207-c6d7074bbbfa",
+                "resourcePath": "views\\2bc0c65f-05a0-44c2-b0dd-e3e16ebb917d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2c9acd30-2ee9-4db7-b349-7c847175b48f",
+            "Value": {
+                "id": "89a72dda-776a-4607-bb2d-f325588e7b60",
+                "resourcePath": "scripts\\twitter_async_http\\twitter_async_http.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "31cf0ea4-0c2f-42ab-8f64-284e7a54add6",
+            "Value": {
+                "id": "b62bd614-b11d-4243-a707-3ba883a0e3d6",
+                "resourcePath": "scripts\\twitter_start_pin_auth\\twitter_start_pin_auth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "33385551-d7d6-41ea-8c8b-9cf72c975bbc",
+            "Value": {
+                "id": "a8c10268-bddf-481e-a3a8-1bc441ff824b",
+                "resourcePath": "scripts\\__twitter_error\\__twitter_error.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "348b033a-84eb-4a66-bfe1-ad72522586d4",
+            "Value": {
+                "id": "28024721-ea20-4c05-a591-1633ebe2e654",
+                "resourcePath": "views\\348b033a-84eb-4a66-bfe1-ad72522586d4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3660473d-4559-4d40-8468-ecda0c2d2ab5",
+            "Value": {
+                "id": "be881a57-99a7-43c7-be10-75dd06b31e66",
+                "resourcePath": "scripts\\__twitter_map_to_header_string\\__twitter_map_to_header_string.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "36aa03e4-7dfe-4af8-8a67-546ee8376cca",
+            "Value": {
+                "id": "50d9a71f-dff5-43cf-8d39-268f7ad32bee",
+                "resourcePath": "scripts\\__twitter_server_create\\__twitter_server_create.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3a4403d8-5b16-4024-9b39-c24b5a33c399",
+            "Value": {
+                "id": "487c5fab-1353-40db-9a8e-af780b52a266",
+                "resourcePath": "scripts\\callback_pin_prompt\\callback_pin_prompt.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "7e3df6d4-b701-4fb5-9cd0-e0a9acf45b27",
+                "resourcePath": "options\\switch\\options_switch.yy",
+                "resourceType": "GMSwitchOptions"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "a2ffab6e-5763-4559-b8db-f14f7fd41e36",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "435434d1-a70d-4e2d-8c58-64eb93588c73",
+            "Value": {
+                "id": "34897a11-2cd4-4e5d-8507-040f04416e5c",
+                "resourcePath": "scripts\\twitter_is_pending\\twitter_is_pending.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "48fb9e98-fe93-4807-af1a-de917b786085",
+            "Value": {
+                "id": "6cd2b264-2bb7-4c43-9963-60ed2db2310f",
+                "resourcePath": "scripts\\__twitter_config\\__twitter_config.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "49f47567-c61d-4f7a-bde6-be2d73d872de",
+            "Value": {
+                "id": "6aac32b1-e46f-4c84-b133-95c4f1c51efc",
+                "resourcePath": "scripts\\__twitter_message\\__twitter_message.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4b273cc5-b065-411d-9453-de60ace8dd26",
+            "Value": {
+                "id": "6dafb43d-9f7e-47fb-8cb3-88cb32d29ec0",
+                "resourcePath": "views\\4b273cc5-b065-411d-9453-de60ace8dd26.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "51b98198-2fcb-4572-aac5-92bd76dc154d",
+            "Value": {
+                "id": "efcee88a-a1bd-433f-931d-96a4c3da9cbe",
+                "resourcePath": "scripts\\twitter_start_3_leg_auth\\twitter_start_3_leg_auth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5dbf375e-046c-4ab8-8e8c-b503eafe662d",
+            "Value": {
+                "id": "dfacc176-4f58-47e9-8b65-618f15ed5cd7",
+                "resourcePath": "views\\5dbf375e-046c-4ab8-8e8c-b503eafe662d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e321077-e8a1-499a-b916-ae0128306a9b",
+            "Value": {
+                "id": "b10d94b8-cf94-4b98-b95b-6e2b8bcab8c8",
+                "resourcePath": "views\\5e321077-e8a1-499a-b916-ae0128306a9b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6072c1bc-ef88-492a-9649-6d45ef02782e",
+            "Value": {
+                "id": "ddfe2950-300f-419f-8f39-1983812cc80d",
+                "resourcePath": "scripts\\__twitter_nonce\\__twitter_nonce.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "70669200-34c5-47fa-a26b-c9e8bd6c5740",
+            "Value": {
+                "id": "3d47f583-f9cd-499b-849a-436a94c0707d",
+                "resourcePath": "rooms\\rmMain\\rmMain.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "666c63ef-cf20-4366-876b-d6e588d70a1d",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "792a599b-156e-4972-8a29-d4dd3f1fa5b6",
+            "Value": {
+                "id": "de0d4060-207d-47cc-b577-6dfea137a963",
+                "resourcePath": "views\\792a599b-156e-4972-8a29-d4dd3f1fa5b6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c230255-0fc3-45e5-9562-c9902b7a6afd",
+            "Value": {
+                "id": "d3cc785a-fee9-4698-93c8-a8319537a896",
+                "resourcePath": "objects\\objTest\\objTest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7cb006ef-2b31-45e0-8093-ae8d939ab4e3",
+            "Value": {
+                "id": "ebd1641d-3b56-4c36-a464-1a570a1daca7",
+                "resourcePath": "scripts\\twitter_submit_pin\\twitter_submit_pin.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "e5138e47-8628-462d-867c-f23c4f5d2339",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "988b796c-940d-479e-a900-0f02e4f42bf4",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "866c0457-b078-4220-8ba2-2faaf5e2ef58",
+            "Value": {
+                "id": "9499b33b-3d2d-4b31-a934-ca5ed3f11aeb",
+                "resourcePath": "scripts\\twitter_api_update\\twitter_api_update.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "89506609-3d53-4b9c-b1ea-e205b1a2a46f",
+            "Value": {
+                "id": "e814fb43-ea4e-46e4-b6d3-b77f0a22217d",
+                "resourcePath": "scripts\\callback_confirm\\callback_confirm.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8a8b2f77-397e-4a44-ab52-77e9c0f77738",
+            "Value": {
+                "id": "feb32cb0-c5e1-4eba-8991-7f0c78e0e463",
+                "resourcePath": "views\\8a8b2f77-397e-4a44-ab52-77e9c0f77738.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "aeb9f25a-92ad-4327-ace1-ca219d9f2430",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "953f3527-9c14-4ee2-80b0-fef8c346562f",
+            "Value": {
+                "id": "79d42135-2488-480c-81b9-6e0df921bcc4",
+                "resourcePath": "views\\953f3527-9c14-4ee2-80b0-fef8c346562f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9aba1867-48e5-4720-b76a-69637b3e664c",
+            "Value": {
+                "id": "4292e696-2b23-4f14-a5c8-481e516f0d53",
+                "resourcePath": "views\\9aba1867-48e5-4720-b76a-69637b3e664c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9abe91e1-e05b-4cbb-a839-5a970b9df9fc",
+            "Value": {
+                "id": "c98d534f-9d13-4124-98ae-57f184cd578f",
+                "resourcePath": "scripts\\twitter_get_state\\twitter_get_state.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "394ea3e5-fe49-415b-9699-ddbe491e654d",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a635b588-42a9-450b-ae7d-4f0559e37e58",
+            "Value": {
+                "id": "ce802289-0066-401a-85a1-5285af8edefb",
+                "resourcePath": "scripts\\callback_post_update\\callback_post_update.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "cfc2a1ca-3b81-4386-bfa1-c6a1c7f99de8",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a95b7e09-3489-41c4-b023-e153de0433ba",
+            "Value": {
+                "id": "a69b0448-129c-4d0f-a320-0cf304eb74ae",
+                "resourcePath": "scripts\\__twitter_percent_encode\\__twitter_percent_encode.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ac6639e1-4e38-4a1a-a142-ca8bf4fc6e3c",
+            "Value": {
+                "id": "29d0aefc-4e4f-489a-8807-265b060f6f13",
+                "resourcePath": "scripts\\__twitter_callback_success\\__twitter_callback_success.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b0e6f2f0-9bf2-48d1-b69d-2593fd621555",
+            "Value": {
+                "id": "ef619252-efe2-4f70-a2ff-e579311768f2",
+                "resourcePath": "scripts\\__twitter_signed_request\\__twitter_signed_request.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b611eabd-a038-4ab7-b5d1-1984d54aa501",
+            "Value": {
+                "id": "745c6131-d839-4717-8ce4-afe6ec5fb659",
+                "resourcePath": "views\\b611eabd-a038-4ab7-b5d1-1984d54aa501.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c3f9eaea-8e0d-4815-8911-0ef682ba9df6",
+            "Value": {
+                "id": "d7fa0c29-10aa-4152-b2ab-ffb98d0894c4",
+                "resourcePath": "views\\c3f9eaea-8e0d-4815-8911-0ef682ba9df6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "b38615fc-4f95-49bb-8d3b-ec2183a07264",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf748b10-a6c5-41f9-ab9b-7d0c9626773e",
+            "Value": {
+                "id": "235f67af-6e27-454a-94a6-7ee63c56ca5d",
+                "resourcePath": "scripts\\twitter_request\\twitter_request.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d25dcf09-ac7a-41af-afdf-74a2d8649158",
+            "Value": {
+                "id": "532ab6fd-4309-43d4-9e3c-db955675c6d9",
+                "resourcePath": "scripts\\__twitter_server_destroy\\__twitter_server_destroy.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d2e6cd12-3ec2-4816-b32c-9e821844a03d",
+            "Value": {
+                "id": "a94c0082-c402-42da-9576-367b10875f62",
+                "resourcePath": "scripts\\twitter_has_access_token\\twitter_has_access_token.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d5027018-08ff-401b-aa8f-d6cf2e30f7a3",
+            "Value": {
+                "id": "ef1344da-e835-44af-a6da-031d41b185e6",
+                "resourcePath": "scripts\\twitter_async_networking\\twitter_async_networking.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dbac537e-c1ed-452d-aed5-d16a1555a922",
+            "Value": {
+                "id": "a3cb9ad4-ce3e-43cd-ba45-924ad2ae5d22",
+                "resourcePath": "scripts\\__twitter_signature\\__twitter_signature.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "4c40cb29-3a5e-4223-9082-59efc0620883",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e4ecaf6e-21f5-4fb6-b139-0ebf0b4a4a7e",
+            "Value": {
+                "id": "38fccb53-fc07-42fd-ae3c-0da913bc45e8",
+                "resourcePath": "scripts\\__twitter_reset\\__twitter_reset.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e6307ce2-de79-4cf7-b86c-2a9ed0bf0ae5",
+            "Value": {
+                "id": "fb69b2f6-7464-4ea3-b36f-a08511b4e8ab",
+                "resourcePath": "scripts\\__twitter_exchange_token\\__twitter_exchange_token.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e7a72a0c-c4b3-497f-85d1-5ab4365ddefd",
+            "Value": {
+                "id": "1cfda77d-25e4-4ff5-9d2a-6faf9b6f44fd",
+                "resourcePath": "views\\e7a72a0c-c4b3-497f-85d1-5ab4365ddefd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e9cd68b8-db30-445e-b69f-2800d3b98165",
+            "Value": {
+                "id": "e8e477a6-849f-4bc8-9087-8cf2978c126d",
+                "resourcePath": "scripts\\twitter_init\\twitter_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ece9491d-5e8b-4edb-a46a-6e51f6abf68f",
+            "Value": {
+                "id": "e370aa09-ffd8-48f5-ae30-058da016a23f",
+                "resourcePath": "scripts\\__twitter_hmac_sha1\\__twitter_hmac_sha1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f13bd891-d2b9-4b5f-89e5-534b8b63214e",
+            "Value": {
+                "id": "9ac6c76f-53b7-4e4d-9926-c0c77eea31ea",
+                "resourcePath": "views\\f13bd891-d2b9-4b5f-89e5-534b8b63214e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "a03e2759-2fe5-441d-8b39-6446ef3f3b6d",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f7055b59-5320-49b2-b975-00b3ff457ed6",
+            "Value": {
+                "id": "149c05ba-3f2b-4610-ad09-6a7690aa3cac",
+                "resourcePath": "views\\f7055b59-5320-49b2-b975-00b3ff457ed6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "a6ddf349-1f04-47ef-ace0-00b0873996e8",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "feebb1a1-e373-44a5-8139-77c77fd71784",
+            "Value": {
+                "id": "0cab8f3a-a8bc-4cba-a56d-bee52da1a947",
+                "resourcePath": "views\\feebb1a1-e373-44a5-8139-77c77fd71784.yy",
+                "resourceType": "GMFolder"
+            }
+        }
+    ],
+    "script_order": [
+        "48fb9e98-fe93-4807-af1a-de917b786085",
+        "e9cd68b8-db30-445e-b69f-2800d3b98165",
+        "27dadd79-4dc6-4af9-ac3b-47cffc89593a",
+        "2c9acd30-2ee9-4db7-b349-7c847175b48f",
+        "d5027018-08ff-401b-aa8f-d6cf2e30f7a3",
+        "51b98198-2fcb-4572-aac5-92bd76dc154d",
+        "31cf0ea4-0c2f-42ab-8f64-284e7a54add6",
+        "7cb006ef-2b31-45e0-8093-ae8d939ab4e3",
+        "1eb3634c-e12d-479a-995e-8e90370f474f",
+        "866c0457-b078-4220-8ba2-2faaf5e2ef58",
+        "cf748b10-a6c5-41f9-ab9b-7d0c9626773e",
+        "9abe91e1-e05b-4cbb-a839-5a970b9df9fc",
+        "d2e6cd12-3ec2-4816-b32c-9e821844a03d",
+        "0830d570-bde5-4690-85d8-b89194246481",
+        "435434d1-a70d-4e2d-8c58-64eb93588c73",
+        "b0e6f2f0-9bf2-48d1-b69d-2593fd621555",
+        "234f28a1-2358-43b9-8a14-d359ac5fda37",
+        "218efc9b-0d98-4485-ab06-4cfd8de2d0d4",
+        "e6307ce2-de79-4cf7-b86c-2a9ed0bf0ae5",
+        "e4ecaf6e-21f5-4fb6-b139-0ebf0b4a4a7e",
+        "a95b7e09-3489-41c4-b023-e153de0433ba",
+        "ece9491d-5e8b-4edb-a46a-6e51f6abf68f",
+        "dbac537e-c1ed-452d-aed5-d16a1555a922",
+        "04998f54-7a31-488f-bb7b-e5fac7646fc5",
+        "3660473d-4559-4d40-8468-ecda0c2d2ab5",
+        "12034492-5289-464b-a75f-3b26a8e71827",
+        "129e1175-1c0f-453b-acb0-1620596af054",
+        "6072c1bc-ef88-492a-9649-6d45ef02782e",
+        "33385551-d7d6-41ea-8c8b-9cf72c975bbc",
+        "49f47567-c61d-4f7a-bde6-be2d73d872de",
+        "36aa03e4-7dfe-4af8-8a67-546ee8376cca",
+        "d25dcf09-ac7a-41af-afdf-74a2d8649158",
+        "019e6c07-9756-43e1-be85-fa7d44cd2e23",
+        "125270c5-7029-408c-b7a5-c51fbd358337",
+        "ac6639e1-4e38-4a1a-a142-ca8bf4fc6e3c",
+        "a635b588-42a9-450b-ae7d-4f0559e37e58",
+        "89506609-3d53-4b9c-b1ea-e205b1a2a46f",
+        "3a4403d8-5b16-4024-9b39-c24b5a33c399"
+    ],
+    "tutorial": ""
+}
