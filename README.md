@@ -1,4 +1,6 @@
-<h1 align="center">Twitter 1.0.0 (OAuth1.0a)</h1>
+# Due to Twitter removing suppprt for free access to their API, this library is no longer supported.
+
+<h3 align="center">Twitter 1.0.0 (OAuth1.0a)</h1>
 
 ### @jujuadams
 
